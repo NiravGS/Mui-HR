@@ -1,0 +1,26 @@
+@font-face {
+  font-family: GcodeFont;
+  src: url("./assets/font/Product\ Sans\ Regular.ttf");
+}
+@font-face {
+  font-family: GcodeFontBold;
+  src: url("./assets/font/Product\ Sans\ Bold.ttf");
+}
+@font-face {
+  font-family: GcodeFontBoldItalic;
+  src: url("./assets/font/Product\ Sans\ Bold\ Italic.ttf");
+}
+@font-face {
+  font-family: GcodeFontItalic;
+  src: url("./assets/font/Product\ Sans\ Italic.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: GcodeFont, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
